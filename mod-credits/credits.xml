@@ -1,0 +1,42 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/01c_credits-01.png"
+  title="Credits"
+  text='This mod was created with love by Rem and Charlles! 💙 (!line)(!line) 
+  • (!bold/(!color/#e783d8/L3PRD PR!NT)): Recrecreating the Talkbox vocals for "This is so Amazing!" 🎵 (!line)
+  • (!bold/(!color/#83bfe7/Rem)): Coding, Bonus Animation, General Animations, and Original Concept 🎵 (!line) 
+  • (!bold/(!color/#fbf7b4/Charlles)): Design, Sound Assistance, and Additional Ideas 🎵 (!line)(!line)
+    Huge thanks to everyone who enjoy our work!'
+  />
+  <page 
+  noImage="true"
+  image="asset-v1/blueberries.jpg"
+  title="Special Thanks to OMFG 🍞"
+  text='This mod’s music is inspired by (!bold/"OMFG - Hello")! (!line)(!line) 
+  Check out the original track here: (!line)(!line) (!youtube/https://www.youtube.com/watch?v=aaIjs8K3oYo) (!line)(!line) 
+  Thank you, OMFG, for the amazing music!'
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/02c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of corse the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  />
+</credits>
+
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
